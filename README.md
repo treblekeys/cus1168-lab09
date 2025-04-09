@@ -69,7 +69,6 @@ and filter this data according to specific requirements.
 When running your program, it should produce output similar to:
 
 ```
-/Users/suresh/Library/Java/JavaVirtualMachines/corretto-21.0.3/Contents/Home/bin/java -javaagent:/Users/suresh/Applications/IntelliJ IDEA Ultimate.app/Contents/lib/idea_rt.jar=57745:/Users/suresh/Applications/IntelliJ IDEA Ultimate.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/suresh/sureshsigera/cus1168/cus1168/target/classes academy.javapro.week12.SimplifiedFileLab
 ===== Simplified File Data Processor =====
 
 Original Data:
